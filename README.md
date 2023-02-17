@@ -2,6 +2,8 @@
 
 Statické webové stránky s minimálním použitím JavaScriptu.
 
+Demo: **https://itsdaiton.github.io/chopsticks-webpage/**
+
 ## Popis
 
 Jedná se o statické webové stránky, které byly vytvořeny "jakoby" pro restauraci Chopsticks Bistro v Šeberově. Informace jako jsou ceny, názvy jídel nebo popisky jídel jsou převzaty z oficiálního webu dané restaurace. Texty v sekci FAQ a na hlavní stránce jsou odvozeny od mé vlastní zkušenosti z návštěv dané restaurace a také informací ze zmíněného webu.
